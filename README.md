@@ -46,7 +46,7 @@ This issue can be solved as follow:
 # docker commit cc349c658225 mt
 ```
 
-The resulting image **"mt"** will now start MetaTrader immediately without any further prompts.
+The resulting image **"mt"** will now start MetaTrader immediately without any further prompts..
 
 EXAMPLES
 --------
