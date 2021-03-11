@@ -99,7 +99,7 @@ The process for this is as follows:
 # wine /home/wine/mt5setup.exe
 ```
 * MetaTrader is now installed into /tmp/mt/.wine/drive_c/Program Files/MetaTrader 5/
-* you can now save this directory and run your dockerized MetaTrader from there:
+* you can now save this directory and run your dockerized MetaTrader from there: 
 ```shell
 # cp -r /tmp/mt/.wine/drive_c/Program Files/MetaTrader 5/ $HOME/MetaTrader
 ...
