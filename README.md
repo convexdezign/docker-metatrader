@@ -4,7 +4,7 @@ docker-metatrader
 Since MetaTrader does not work equally well with all versions of wine and 
 installing several versions and switching between them can be a
 rather unpleasant experience, running MetaTrader with wine in a Docker
-container is a very convenient solution.
+container is a very convenient solution..
 
 Requirements
 ------------
